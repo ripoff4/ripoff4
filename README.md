@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ripoff4
-- 👀 I’m interested in .website development,Machine Learning..
-- 🌱 I’m currently learning website development And Machine learning..
+- 👀 I’m interested in .website development,Machine Learning,Web Scraping..
+- 🌱 I’m currently learning website development,Web Scraping And Machine learning..
 - 💞️ I’m looking to collaborate on website development..
 - 📫 How to reach me Dm Me
 - 😄 Pronouns: he
